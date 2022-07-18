@@ -1,0 +1,1 @@
+//change back from stretch and set to pixels or percentages, also change gap;
